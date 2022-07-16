@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 bevy = { version = "0.7" }
 rand = "0.8.5"
+noise = "0.7"
 
 
 [[example]]
